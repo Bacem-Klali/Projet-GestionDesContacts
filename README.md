@@ -76,7 +76,7 @@ Technologies utilisées:
 
  Structure du projet:
 
- /contactmanager
-    Main.java         <-- le fichier principal avec l’interface
-    Contact.java      <-- modèle de données (classe Contact)
-    Database.java     <-- gestion de la connexion à la base
+     /contactmanager
+        Main.java         <-- le fichier principal avec l’interface
+        Contact.java      <-- modèle de données (classe Contact)
+        Database.java     <-- gestion de la connexion à la base
